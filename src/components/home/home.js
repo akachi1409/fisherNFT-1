@@ -18,20 +18,20 @@ function Home() {
           <div className="navbar-container">
             <Navbar />
             <div className="greeting-container">
-              <img src={greetingBg} />
+              <img src={greetingBg} alt="" />
               <h1 className="title greeting-title">TANKED GILL SCHOOLIES</h1>
             </div>
           </div>
         </section>
         <div className="welcome-part">
           <div className="welcome-container">
-            <img src={welcomeBg} className="welcome-img" />
+            <img src={welcomeBg} className="welcome-img" alt=""  />
             <h1 className="title welcome-title">WELCOME TO TANKED GILL SCHOOLIES</h1>
             <p className="general-content welcome-content">If you had to do it all again, you'd probably want to come back as a Schoolie. Cool, Funny, Successful, Carefree, Humble, and Normal, with a touch of wise ass and I don't give a damns thrown in. The year is 2022, and this collection of 9,777 uniquely designed characters portraying reincarnated high school seniors who decided to come back as Tanked Gil Schoolies, have a score to settle. But they're not mad at anybody. They're the opposite, they're grateful and ready to raise some hell. </p>
             <p className="general-content welcome-content">They missed the great high school fun other traditionalists had, because the hipsters that were seniors at the time determined they weren't cool enough because they were so called nerds. Yes nerds, because they were techies, capitalists and rebels, believing in anarchism and true free libertarianism, untethered by traditional state rhetoric and rules. So while the regs were using school to fine tune their social skills, Schoolies were preparing to kick some ass in that world, became successful playing a game they trained for, made their money, then decentralized it all and now the power is theirs, finally. And they live here. This is what they've decided collectively to become. Jokers, rebels, inclusionists living in the NirvanaVerse, a literal Web3 playground and everyone is invited.  Schoolies are the reincarnation of our real life kids, physically "fish dudes" ready to play and show out their concepts of power to the people, living free, laughing at everything, clowning, pranking and creating the world they always dreamed about. This is The Schoolie Life. We invite you. Let's live it.</p>
           </div>
           <div style={{textAlign:"center"}}>
-            <img src={bus} className="bus-img" />
+            <img src={bus} className="bus-img" alt=""  />
           </div>
         </div>
         <section className="aboutUs-part">
@@ -78,7 +78,7 @@ function Home() {
         <section className="series">
           <div>
               <div className="animated-container">
-                <img src={animated} style={{zIndex:"10"}} />
+                <img src={animated} style={{zIndex:"10"}} alt=""  />
                 <h1 className="title greeting-title" style={{zIndex:"1000"}}>ANIMATED SERIES</h1>
               </div>
             <div className="animated-part">
