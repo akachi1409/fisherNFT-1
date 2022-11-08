@@ -1,0 +1,187 @@
+.header{
+    background-image: url("../../img/home-bg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 1240px;
+}
+.navbar-container{
+    padding-top: 20px;
+}
+.greeting-container{
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+}
+.title{
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: -7px 2px black;
+}
+.greeting-title {
+    text-align: center;
+    font-size: 56px;
+    width: 360px;
+    margin: auto;
+    margin-top: -200px;
+}
+.welcome-part{
+    background-image: url("../../img/welcome-bg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 1440px;
+}
+.welcome-container{
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    display: inline-block;
+    margin-top: -130px;
+}
+.welcome-img{
+    width: 90%;
+}
+.welcome-title{
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    margin-top: -515px;
+    margin-bottom: 15px;
+}
+.general-content{
+    color: white;
+}
+.welcome-content{
+    width: 76%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.bus-img{
+    width: 95%;
+    margin-top: -130px;
+}
+.aboutUs-part{
+
+}
+.joinUs-part{
+    background-image: url("../../img/joinUs-bg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 1150px;
+}
+.joinUs-title{
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    margin-top: -415px;
+    margin-bottom: 5px;
+}
+.joinUs-content{
+    width: 79%;
+    text-align: center;
+    margin: auto;
+    margin-top: 5px;
+    font-size: 20px;
+}
+.drive-part{
+    background-image: url("../../img/drive-bg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 1530px;
+}
+.drive-container{
+    width: 65%;
+    margin: auto;
+}
+.drive-title{
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    margin-top: -465px;
+    margin-bottom: 5px;
+}
+.drive-content{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+.fieldTrip-part{
+    background-image: url("../../img/fieldTrip-bg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 1170px;
+}
+.fieldTrip-title{
+    text-align: center;
+    font-size: 46px;
+    margin: auto;
+    margin-top: -415px;
+    margin-bottom: 15px;
+}
+.fieldTrip-content{
+    width: 76%;
+    text-align: center;
+    margin: auto;
+    font-size: 20px;
+}
+.roadmap{
+    background-image: url("../../img/roadmap-bg.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 1100px;
+    text-align: center;
+}
+.roadmap-title{
+    text-align: center;
+    padding-top: 300px;
+}
+.roadmap-img{
+    margin-top: 50px;
+    width: 90%;
+}
+.series{
+    background-color: black;
+}
+.animated-part{
+    width: 80%;
+    background-color: #2B2624;
+    margin: auto;
+    padding: 15px;
+    margin-top: -170px;
+    z-index: -1;
+}
+.animated-inner-red{
+    width: 100%;
+    height: 100%;
+    background-color: #F6AE00;
+    padding: 5px;
+}
+.animated-inner-grey{
+    width: 100%;
+    height: 100%;
+    background-color: #2B2624;
+    padding:30px;
+}
+.video-fluid{
+    width: 100%;
+    height: 100%;
+}
+.animated-container{
+    margin: auto;
+    width: fit-content;
+    text-align: center; 
+    z-index: 5;
+    display: grid;
+}
+.row{
+    margin-left: 0!important;
+    margin-right: 0!important;
+}

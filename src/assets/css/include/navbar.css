@@ -1,0 +1,20 @@
+.container {
+  background-color: #2B2624;
+  padding: 10px 15px!important;
+}
+.container > .navbar {
+  border: solid 5px #F6AE00;
+}
+.container > .navbar > .collapse > .navbar-nav > li{
+  padding: 0 21px;
+}
+.container > .navbar > .collapse > .navbar-nav > li > a {
+  color: #FFFFFF;
+  font-weight: bold;
+  text-shadow: -7px 2px black;
+}
+@media only screen and (max-width: 1199px) {
+  .container > .navbar > .collapse > .navbar-nav > li{
+    padding: 0 5px;
+  }
+}
